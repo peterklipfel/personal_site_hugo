@@ -1,4 +1,4 @@
-baseurl = "peterklipfel.com"
+baseurl = "http://peterklipfel.com/"
 languageCode = "en"
 title = "Peter Klipfel"
 theme = "hugo-theme-cactus-plus"

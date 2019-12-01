@@ -1,7 +1,7 @@
 ---
 title: "Why I'm writing a biotech blog"
 date: 2019-11-22T20:26:18-07:00
-draft: true
+draft: false
 summary: "I found it difficult to learn programming, but never wrote down my progress. Now maybe my struggles with biology will be able to help someone else."
 ---
 
