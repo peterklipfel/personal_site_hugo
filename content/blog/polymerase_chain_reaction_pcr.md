@@ -1,5 +1,5 @@
 ---
-title: "Polimerase Chain Reaction (PCR)"
+title: "Polymerase Chain Reaction (PCR)"
 date: 2019-11-27T21:41:38-07:00
 draft: false
 ---
