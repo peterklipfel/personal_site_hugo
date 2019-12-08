@@ -41,11 +41,14 @@ I like to approach synthetic biology from a recipe perspective. That is, listing
 1. Use the pipette to add together all the ingredients in a PCR tube
 1. Put the PCR tube with the mixed ingredients into the thermocycler
 1. Run the thermocycler (The cycle that follows uses example temperatures for Taq polymerase. Different polymerases and primers will perform optimally at different temperatures)
-  1. Heat to high temperature 96° C
-  1. Cool to 59° C
-  1. Heat to 72° C
-  1. Repeat starting from step 1 30 times
+  1. Heat to high temperature 96° C for 4 minutes
+  1. Heat to high temperature 96° C for 30 seconds
+  1. Cool to 59° C for 30 seconds
+  1. Heat to 72° C for 3 minutes
+  1. Repeat starting from step 2 30 times
 1. Remove the PCR tubes from the thermocycler
+
+Notice that some of the steps take longer than others. These can all be tweaked to create an optimally performing process. It is also worth mentioning that primers should only be expected to one site or the other in a DNA sequence. Sometimes, both may bind, but in general, it's useful to assume that only one will bind. This means that in the second cycle there will be a longer tail of DNA on either side of the primers (but only for one side of the DNA on each end). As the cycle progresses, these extra bits will cleave off, and the desired gene will be more and more perfect. This is why PCR cycles many times.
 
 #### Testing your DNA
 
