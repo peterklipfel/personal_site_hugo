@@ -2,6 +2,7 @@
 title: "Plasmids"
 date: 2019-12-07T21:44:22-07:00
 draft: false
+summary: "Plasmids show up everywhere, and are very useful to synthetic biologists. They are short, circular pieces of DNA that are separate from the chromosome of the cell that they inhabit."
 ---
 
 # What is a plasmid?
@@ -53,6 +54,8 @@ In the lab, if you want to create your very own plasmid, you will need to follow
   * E. coli
   * Plasmid
   * Ligase buffer
+  * Lysogeny broth
+    * Commonly referred to as LB
   * Agar with antibiotic in it
   
 
@@ -76,8 +79,8 @@ In the lab, if you want to create your very own plasmid, you will need to follow
     1. Let sit for 5-10 minutes
     1. Put tube on heat block for 30 seconds
     1. Put tube on ice for 2 minutes to help cells recover
-    1. Add ligase buffer to tube
-    1. Mix ligase buffer in tube by flicking the tube a few times
+    1. Add Lysogeny broth to tube
+    1. Mix Lysogeny broth in tube by flicking the tube a few times
     1. Shake the cells for 1 hour at 37° C to allow them to grow
     1. Spread the cells from the Eppendorf tube as evenly as possible on the bacteria plate (with agar on it)
     1. Incubate overnight at 37° C to allow the cells to grow
