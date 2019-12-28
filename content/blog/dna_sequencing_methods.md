@@ -1,6 +1,6 @@
 ---
 title: "DNA sequencing methods"
-date: 2019-12-21T19:07:01-07:00
+date: 2019-12-27T19:07:01-07:00
 draft: false
 summary: "One of the driving factors behind the recent explosion in progress in synthetic biology has to do with the cost and speed of genome sequencing and synthesis. I wanted to understand more about how it actually works."
 ---
