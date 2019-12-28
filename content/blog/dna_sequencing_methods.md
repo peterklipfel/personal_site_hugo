@@ -54,6 +54,9 @@ When two strands of DNA bind together, DNA needs a special enzyme in order to bi
 
 Sequencing by ligation also has the added bonus of being able to cleave the DNA that was just sequenced. If the oligonucleotides are synthesized in a certain way, the sequenced piece can be chopped off by some other proteins. Then, the process can be run again. Because the oligonucleotides are long, there are some DNA pieces that will be skipped, so the sequence needs to run several times with oligonucleotides of different lengths. Conveniently, this is parallelizable.
 
-# Notes
+# Sources
 
 https://www.healthcheckup.com/general/different-types-of-dna-sequencing-methods/
+
+Wikipedia
+
