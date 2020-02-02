@@ -1,7 +1,7 @@
 ---
 title: "Coronavirus"
 date: 2020-01-24T17:08:58-07:00
-draft: true
+draft: false
 summary: "There is currently a lot of news dedicated to an outbreak of coronavirus in China and the US. I wanted to understand more about this virus with the knowledge that I have gained on my biology learning path."
 ---
 
