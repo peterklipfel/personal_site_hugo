@@ -8,7 +8,7 @@ hasCJKLanguage = false
 
 [params]
 	author = "Peter Klipfel"
-	description = "My portal minimalistic portal to the world"
+	description = "My minimalistic portal to the world"
 	bio = "biotech<br>music<br>software<br>musings"
 
 	enableRSS = true
@@ -44,6 +44,9 @@ hasCJKLanguage = false
 	# 404 page
 	title404 = ""
 	subtitle404 = ""
+
+  enableDisqus = false
+  disqusShortname = "peterklipfel"
 
 	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
 	iconFont = "font-awesome"
