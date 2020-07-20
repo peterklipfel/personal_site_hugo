@@ -1,10 +1,9 @@
 ---
 title: "How I manage my notes"
-date: 2020-07-19T20:01:11-07:00
+date: 2020-07-18T20:01:11-07:00
 draft: false
 summary: "I have spent a long time trying to find the right practice for taking notes, and I think I finally found a method that I like"
 ---
-
 
 # Tl;dr
 
