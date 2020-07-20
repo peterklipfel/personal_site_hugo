@@ -18,12 +18,14 @@ The ones that I can remember trying are: Google Keep, Google Docs, Evernote, Jup
 # What I'm looking for
 
 After finding the solution that works for me, I've discovered what my requirements are:
+
 - **Portable format**: I want to be able to load my notes in any system. Potential candidates include docx files, markdown, and pdfs
 - **Access everywhere**: I want to be able to see and read my notes after they've been synchronized
 - **Vim mode**: When I'm at a computer, I'd like to be able to use vim mode to modify and update my notes
 - **Metadata**: I need a good way of associating metadata with my notes like the time the note was taken and a way of linking notes
 
 But I also want to be able to use notes for other things:
+
 - I have lots of miscellaneous thoughts during the day and need a way to capture them
 - I like to keep track of quotes
 - I often track things like grocery lists
@@ -50,6 +52,7 @@ Obsidian handles this all for my automatically, but the system is simple, so I c
 ### Daily Note Format
 
 My daily notes contain the following sections specified as markdown headings:
+
 - **TODO**: I put all the tasks that I want to get done "today" in this section
 	- **Stretch**: As things come up during the day, I often put them in this section, and move them to the next day if I don't get to them
 - **Personal Goals**: I generally have personal objectives that I am actively  working on. This is where I track those objectives, and their output (metrics, notes, links, etc.)
