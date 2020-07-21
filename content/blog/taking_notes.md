@@ -56,7 +56,6 @@ My daily notes contain the following sections specified as markdown headings:
 - **TODO**: I put all the tasks that I want to get done "today" in this section
 	- **Stretch**: As things come up during the day, I often put them in this section, and move them to the next day if I don't get to them
 - **Personal Goals**: I generally have personal objectives that I am actively  working on. This is where I track those objectives, and their output (metrics, notes, links, etc.)
-- **Business Goals**: I like to track the ongoing goals at my job separately from my personal goals.
 - **Accomplished**: It's nice to lay in bed at night and make a list the things that I got done that day
 - **Daily thoughts**: This section is freeform, and is more like my "journaling" section. As I'm wandering through the day, for example, and I have the next billion dollar business idea, solutions to world hunger, or breakthroughs on artificial general intelligence, I'll add them to this section.
 
