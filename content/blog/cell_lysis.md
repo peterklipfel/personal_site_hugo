@@ -2,6 +2,7 @@
 title: "Cell Lysis"
 date: 2020-06-20T21:12:22-07:00
 draft: false
+tags: ["biology"]
 description: "Cell lysis is the scientist name for 'breaking open a cell'. Here I go over ways of breaking open cells."
 ---
 

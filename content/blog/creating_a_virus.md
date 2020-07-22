@@ -2,6 +2,7 @@
 title: "Creating a virus"
 date: 2020-01-10T15:59:55-07:00
 draft: false
+tags: ["biology"]
 summary: "Viruses can be very useful for synthetic biology. They allow us to add DNA to larger organisms with greater certainty. In this post, I want to add my own understanding to a procedure that I found on the internet."
 ---
 

@@ -2,6 +2,7 @@
 title: "Immortal cell lines"
 date: 2020-03-29T20:37:42-04:00
 draft: false
+tags: ["biology"]
 summary: "Immortal cell lines are immensely useful to research. They allow us to produce fully differentiated cells in high quantities."
 ---
 
