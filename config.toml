@@ -58,3 +58,9 @@ hasCJKLanguage = false
 [social]
 	github-square = "https://www.github.com/peterklipfel"
 
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+    biology = "biology"
+    productivity = "productivity"
+
