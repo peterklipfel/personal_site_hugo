@@ -1,4 +1,4 @@
-baseurl = "http://peterklipfel.com/"
+baseurl = "/"
 languageCode = "en"
 title = "Peter Klipfel"
 theme = "hugo-theme-cactus-plus"
@@ -57,3 +57,10 @@ hasCJKLanguage = false
 # Add additional social link entries underneath
 [social]
 	github-square = "https://www.github.com/peterklipfel"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+    biology = "biology"
+    productivity = "productivity"
+

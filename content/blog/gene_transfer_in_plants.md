@@ -2,6 +2,7 @@
 title: "Gene transfer in plants"
 date: 2020-01-17T22:24:10-07:00
 draft: false
+tags: ["biology"]
 summary: "Inserting genes into plants is how we get GMOs and other cool plants"
 ---
 

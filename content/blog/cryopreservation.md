@@ -2,6 +2,7 @@
 title: "Cryopreservation"
 date: 2020-04-25T11:52:57-04:00
 draft: false
+tags: ["biology"]
 summary: "Saving cells for future use is extermely useful. In this post, I go over a basic cryopreservation technique"
 ---
 

@@ -2,6 +2,7 @@
 title: "Plasmids"
 date: 2019-12-07T21:44:22-07:00
 draft: false
+tags: ["biology"]
 summary: "Plasmids show up everywhere, and are very useful to synthetic biologists. They are short, circular pieces of DNA that are separate from the chromosome of the cell that they inhabit."
 ---
 

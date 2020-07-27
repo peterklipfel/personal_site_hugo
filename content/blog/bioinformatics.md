@@ -2,6 +2,7 @@
 title: "Bioinformatics"
 date: 2019-12-20T21:58:09-07:00
 draft: false
+tags: ["biology"]
 summary: "How computers can be effectively applied to biology"
 ---
 
