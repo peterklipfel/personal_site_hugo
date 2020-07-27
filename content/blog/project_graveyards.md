@@ -1,7 +1,7 @@
 ---
 title: "Project graveyards as guideposts"
 date: 2020-07-26T20:43:21-04:00
-draft: true
+draft: false
 summary: "I was inspired recently to think about old, dead projects as guideposts based on another idea: reasearch graveyards"
 ---
 
