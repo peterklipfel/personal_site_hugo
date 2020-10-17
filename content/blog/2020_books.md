@@ -1,23 +1,31 @@
 I wanted to write a post about all the books that I read in 2020, and a brief overview of what I thought
 
-AI Superpowers
-On Intelligence
-Endurance
-The Armada
-Plant Science - An introduction
-Moral Mazes
-Inspired
-Sprint
-What you do is who you are
-Ghengis Khan and the modern world
-Influencer
-Shantaram
-Chrashes and Crises - Lessons from a history of financial disasters
-The Ride of a Lifetime
-Good Strategy Bad Strategy
-The Once and Future King
-How will you measure your life?
-The E-Myth Revisited
-The innovators Dilemma
-...
-Nutrition lecture - thin series was painful. Not recommended. "Keep in mind", "lo and behold", "the challenge here is". Way too much hedging; way too much Texas
+- AI Superpowers - This is a good read. It is obviously biased toward China being the greatest place for businesses, but has interesting things to say.
+- On Intelligence - I love brains. This is the "brain" equivalent to popular science books about our n-dimensional universe or string theory. I would highly recommend it.
+- Endurance - One of the most epic tales of fortitude and perseverence ever told. Read it.
+- The Armada - The prose to this book was a bit difficult to follow, but it was an enjoyable read
+- Plant Science - An introduction
+	- I loved this series. An approachable and enjoyable overview of plant science by a deeply curious, knowldgeable, passionate, and quirky professor.
+- Moral Mazes
+	- I thought this book was good. However, it made it very easy to become cynical
+- Inspired - I should have read this book sooner. Much of what is presented in this book will be self-evident to people who have worked in the tech industry for a while. Useful models and checklists.
+- Sprint - I should have read this book sooner. Lots of useful checklists.
+- What you do is who you are
+	- I hold a lot of respect for Ben Horowitz, but this book wasn't that great. It was kind of like a loose amalgamation of interesting historical stories with a loosely threaded theme. The stories are interesting, and I'd recommend reading it
+- Ghengis Khan and the modern world - An excellent complement to _The Silk Roads_ by Peter Frankopan. This book gets a lot of negative reactions for downplaying the violence and evil of the Mongols, and I think those comments attack a straw man. The point of this book is to document the breathtaking expansion of the Mongol empire.
+- Influencer - This has some really useful mental models, but would probably be better presented as a blog post than a book
+- Shantaram - I loved this book. It is beautiful, colorful, and philosophical. A wonderful story.
+- Crashes and Crises - Lessons from a history of financial disasters.
+	- I would recommend listening to this lecture series. It is a great overview of how economies fail. 
+- The Ride of a Lifetime - It's the story of the CEO of the greatest story-writing company on the planet. It reads like a hero's journey, and has some interesting tidbits about how to do business, but is not very compelling or insightful. Greatness takes effort, luck, and relentlessness.
+- Good Strategy Bad Strategy - Are you tired of sitting in "strategy" meetings where everyone claims that they have the best "strategy" for going to market next week? This is the book for you! I loved this book because it provides a great toolset for shepherding meetings away from time-wasting bullshit.
+- The Once and Future King - A wonderful series. I had never read this before, and 
+- How will you measure your life? - Meh. Life isn't all about money, power, and fame. Nobel laureates, billionares, and celbrities are humans too.
+- The E-Myth Revisited - Gets a bit painful to read sometimes due to the stereotypical self-helpishness of the prose, but provides an extremely useful - and, in my opinion, correct - mental model for business.
+- The innovators Dilemma - If you have been in business for more than a few years, you likely know much of what this book has to offer. But for that reason, it is also pretty foundational. Highly recommended for people new to business and moderately recommended for people who have been in business for a while; there are still good insights.
+- Practicing Mindfulness - Well taught, a good recommendation for anyone interested in mindfulness; it's the kind of lecture series you could give to your conservative family members.
+- Nutrition lecture - this series was painful. Not recommended. "Keep in mind", "lo and behold", "the challenge here is". Way too much hedging; way too much Texas
+- Antifragile - There are compelling ideas in this book, but they are presented by a nearly insufferable self-important banker. Not recommended
+- Debt the first 5000 years - Profoundly insightful. I may have to reread this once per year. This book has taught me how to be a better person. It also taught me how to make friends.
+- The Art of Intelligence: Lessons from a Life in the CIA's Clandestine Service - It was fine. Entertaining. Useful for remembering that there is great utility in well-used hard power.
+- Mahabharata: Retold by Krishna Dharma
