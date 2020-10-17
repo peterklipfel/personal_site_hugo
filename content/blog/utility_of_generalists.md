@@ -1,7 +1,7 @@
 ---
 title: "On the utility of generalists"
 date: 2020-09-28T18:31:12-07:00
-draft: true
+draft: false
 ---
 
 # Overview
