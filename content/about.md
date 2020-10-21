@@ -9,7 +9,7 @@ My name is Peter Klipfel, and I have many interests. I currently love my work at
 When I'm not at work, I enjoy:
 
 * Microbiology and biotechnology
-* Learning about finance and trading strategies
+* Unreal Engine
 * Climbing
 * Riding my motorcycle - specifically adventure riding
 * Anything involving snow
