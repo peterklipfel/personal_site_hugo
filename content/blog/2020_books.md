@@ -28,4 +28,7 @@ I wanted to write a post about all the books that I read in 2020, and a brief ov
 - Antifragile - There are compelling ideas in this book, but they are presented by a nearly insufferable self-important banker. Not recommended
 - Debt the first 5000 years - Profoundly insightful. I may have to reread this once per year. This book has taught me how to be a better person. It also taught me how to make friends.
 - The Art of Intelligence: Lessons from a Life in the CIA's Clandestine Service - It was fine. Entertaining. Useful for remembering that there is great utility in well-used hard power.
-- Mahabharata: Retold by Krishna Dharma
+- Mahabharata: Retold by Krishna Dharma - The original Dragonball story, except rather than powering up by yelling, they power up with piety - lots of "and now you see my true power". I found myself often trying to peer through what appears to be a stitched together bards retelling of propaganda to identify clear glimpses of what life must have been like for humans who lived during the time of the story.
+- What doesn't kill us -  Breath control and cold discomfort make our bodies healthier. This book feels like it's about mindfulness through the lens of being a badass, but contains other interesting information about hardening ourselves to the elements.
+- Is this anything? - I greatly respect Jerry Seinfeld, but am not a huge fan of his comedy. This was a relaxing, light listen.
+- Breath - There was a lot of interesting information in this book, and it provides a good overview of many techniques for breathing. I wrote a [review for this book]({{< ref "/blog/book_review_breath.md"> }}).
