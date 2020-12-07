@@ -3,7 +3,7 @@ title: "Polymerase Chain Reaction (PCR)"
 date: 2019-11-27T21:41:38-07:00
 draft: false
 tags: ["biology"]
-summary: "PCR is a common lab technique used to amplify a gene for use in further tests or steps."
+description: "PCR is a common lab technique used to amplify a gene for use in further tests or steps."
 ---
 
 # Why do synthetic biologists use PCR?

@@ -3,7 +3,7 @@ title: "Bacterial artificial chromosomes (BAC)"
 date: 2019-12-12T22:02:15-07:00
 draft: false
 tags: ["biology"]
-summary: "BACs are useful for duplicating larger sections of DNA than can be duplicated with PCR or will fit on plasmids."
+description: "BACs are useful for duplicating larger sections of DNA than can be duplicated with PCR or will fit on plasmids."
 ---
 
 # What is a BAC?

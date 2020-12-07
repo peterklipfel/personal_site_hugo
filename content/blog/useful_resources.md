@@ -3,7 +3,7 @@ title: "Useful resources"
 date: 2019-12-08T19:17:25-07:00
 draft: false
 tags: ["biology"]
-summary: "An ongoing list of useful resources"
+description: "An ongoing list of useful resources"
 ---
 
 # What is this?

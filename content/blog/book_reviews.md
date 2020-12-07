@@ -3,7 +3,7 @@ title: "My philosophy of book reviews"
 date: 2020-11-29T16:57:46-04:00
 draft: false
 tags: ["books"]
-summary: "I read a lot of books, and wanted a different way of talking about them."
+description: "I read a lot of books, and wanted a different way of talking about them."
 ---
 
 # Book reviews

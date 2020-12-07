@@ -3,7 +3,7 @@ title: "Lac operon"
 date: 2020-02-07T16:47:28-07:00
 draft: false
 tags: ["biology"]
-summary: "I have heard a lot about the lac operon, and had never looked into it. I've taken this opportunity to explain the basics of how it can be used to select for engineered organisms"
+description: "I have heard a lot about the lac operon, and had never looked into it. I've taken this opportunity to explain the basics of how it can be used to select for engineered organisms"
 ---
 
 # Overview

@@ -3,7 +3,7 @@ title: "Building proteins"
 date: 2020-03-07T13:41:12-05:00
 draft: false
 tags: ["biology"]
-summary: "One of the foundations of biology is proteins. "
+description: "One of the foundations of biology is proteins. "
 ---
 
 # Overview

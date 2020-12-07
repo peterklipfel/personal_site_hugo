@@ -3,7 +3,7 @@ title: "How I manage my notes"
 date: 2020-07-18T20:01:11-07:00
 draft: false
 tags: ["productivity"]
-summary: "I have spent a long time trying to find the right practice for taking notes, and I think I finally found a method that I like"
+description: "I have spent a long time trying to find the right practice for taking notes, and I think I finally found a method that I like"
 ---
 
 # Tl;dr

@@ -3,7 +3,7 @@ title: "MAP kinase"
 date: 2020-04-11T16:12:02-04:00
 draft: false
 tags: ["biology"]
-summary: "MAP kinase comes up as a canonical example in much of systems biology, and I wanted to write a short post about what it actually is"
+description: "MAP kinase comes up as a canonical example in much of systems biology, and I wanted to write a short post about what it actually is"
 ---
 
 # Overview

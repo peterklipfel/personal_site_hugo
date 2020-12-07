@@ -3,7 +3,7 @@ title: "Your Music and People by Derek Sivers"
 date: 2020-12-04T16:57:46-04:00
 draft: false
 tags: ["books"]
-summary: "10/10 - This is now on my yearly reading list. This book is relevant to anyone who wants to be an entrepreneur or an artist of any sort. Super concise. Very articulate"
+description: "10/10 - This is now on my yearly reading list. This book is relevant to anyone who wants to be an entrepreneur or an artist of any sort. Super concise. Very articulate"
 ---
 
 # Recommendation

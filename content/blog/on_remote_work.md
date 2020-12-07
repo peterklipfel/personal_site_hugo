@@ -3,7 +3,7 @@ title: "On Remote Work"
 date: 2020-09-06T21:40:59-07:00
 draft: false
 tags: ["productivity", "business"]
-summary: "Remote work is a big topic during COVID, and as someone who has worked mostly remotely for almost 10 years, I wanted to write down my thoughts."
+description: "Remote work is a big topic during COVID, and as someone who has worked mostly remotely for almost 10 years, I wanted to write down my thoughts."
 ---
 
 # How Remote work has affected me

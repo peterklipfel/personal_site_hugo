@@ -3,7 +3,7 @@ title: "Growing neurons Overview"
 date: 2020-05-09T09:18:20-04:00
 draft: false
 tags: ["biology"]
-summary: "This is the first in a series of blog posts about what it takes to grow neuronal cultures."
+description: "This is the first in a series of blog posts about what it takes to grow neuronal cultures."
 ---
 
 # Overview

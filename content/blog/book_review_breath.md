@@ -3,7 +3,7 @@ title: "Breath by James Nestor"
 date: 2020-12-01T16:57:46-04:00
 draft: false
 tags: ["books"]
-summary: "8/10 - There was a lot of interesting information in this book, and it provides a good overview of many techniques for breathing"
+description: "8/10 - There was a lot of interesting information in this book, and it provides a good overview of many techniques for breathing"
 ---
 
 # Recommendation

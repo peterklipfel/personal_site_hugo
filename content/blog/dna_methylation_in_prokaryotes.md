@@ -3,7 +3,7 @@ title: "DNA methylation in prokaryotes"
 date: 2020-01-31T21:42:47-07:00
 draft: false
 tags: ["biology"]
-summary: "DNA methylation has profound effects in genetics which are still being studied. Methylation affects synthetic biologists by digesting transferred DNA and introducing mutations to transferred DNA"
+description: "DNA methylation has profound effects in genetics which are still being studied. Methylation affects synthetic biologists by digesting transferred DNA and introducing mutations to transferred DNA"
 ---
 
 # Introduction

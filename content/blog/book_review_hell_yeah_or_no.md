@@ -3,7 +3,7 @@ title: "Hell Yeah or No by Derek Sivers"
 date: 2020-12-04T16:57:46-04:00
 draft: false
 tags: ["books"]
-summary: "8/10 - This book spoke to me, and I found it both cathartic and inspiring to read. But it didn't pack the same punch as Your Music and People"
+description: "8/10 - This book spoke to me, and I found it both cathartic and inspiring to read. But it didn't pack the same punch as Your Music and People"
 ---
 
 # Recommendation

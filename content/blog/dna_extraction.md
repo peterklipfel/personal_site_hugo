@@ -3,7 +3,7 @@ title: "DNA Extraction"
 date: 2020-01-03T18:50:34-07:00
 draft: false
 tags: ["biology"]
-summary: "In order to learn about the genes of organisms, we must first get a purified DNA sample. This post goes over what that process looks like."
+description: "In order to learn about the genes of organisms, we must first get a purified DNA sample. This post goes over what that process looks like."
 ---
 
 # Overview
