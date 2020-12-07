@@ -16,7 +16,7 @@ hasCJKLanguage = false
 
 	enableSummary = true
 	# Set the value to true if use description in post front matter replace content summary
-	useDescriptionReplaceSummary = false
+	useDescriptionReplaceSummary = true
 
 
 	# The variables below are optionally too and can be used to
