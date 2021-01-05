@@ -1,6 +1,6 @@
 ---
 title: "Hell Yeah or No by Derek Sivers"
-date: 2020-12-04T16:57:46-04:00
+date: 2020-12-04T16:57:46-07:00
 draft: false
 tags: ["books"]
 description: "8/10 - This book spoke to me, and I found it both cathartic and inspiring to read. But it didn't pack the same punch as Your Music and People"
@@ -70,6 +70,8 @@ If, for some reason, Derek reads this, I have a bone to pick with you. In the bo
 > All that matters are the ideas inside the book and what I do with them.
 
 And yet, this book has a picture of your face on page 2.
+
+**UPDATE:** I ended up trading emails with Derek Sivvers (he's a super approachable dude), and I think I misunderstood the quote. I believe what he's saying is that the author shouldn't be the one selling the book. The ideas of the book should be doing the selling - more specifically, don't buy _Hell Yeah or No_ because it was written by Derek Sivers; buy it because it has compelling ideas that are worth reading. Howevver, it's still interesting to know who the author is, so putting a bio in the book is fine.
 
 # Action items
 This book provided me with a couple of personal action items including discussing particular topics with some people I am close with and:
