@@ -3,6 +3,7 @@ title: "On the utility of generalists"
 date: 2020-09-28T18:31:12-07:00
 tags: ["business"]
 draft: false
+description: "I recently moved from a larger company to a smaller company, and noticed some differences in where and how generalists were useful."
 ---
 
 # Overview
