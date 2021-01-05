@@ -3,7 +3,7 @@ title: "Designing Your Life"
 date: 2020-12-29T16:55:33-08:00
 draft: false
 tags: ["books"]
-description: "7/10 - This "
+description: "7/10 - I like the techniques proposed in this book, but it feels like the authors are trying to sell me on something throughout the book, which was a bit off-putting."
 ---
 
 # Recommendation
