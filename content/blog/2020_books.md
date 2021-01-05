@@ -93,13 +93,13 @@ Here is a list of all the books I read in 2020, and a short summary of what I th
 	- There was a lot of interesting information in this book, and it provides a good overview of many techniques for breathing. I wrote a [review for this book]({{< ref "/blog/book_review_breath.md" >}}).
 - Hell Yeah or No - Derek Sivers
 	-  8 / 10
-	- Short and punchy; worth reading - [read my full review]({{< ref /blog/book_review_hell_yeah_or_no.md}})
+	- Short and punchy; worth reading - [read my full review]({{< ref "/blog/book_review_hell_yeah_or_no.md"}})
 - Your Music and People
 	- 10 / 10
-	- Short and punchy; a must read for anyone in the music industry and I highly recommend it to anyone who wants to build a brand. [Read my full review]({{ ref /blog/book_review_your_music_and_people.md}})
+	- Short and punchy; a must read for anyone in the music industry and I highly recommend it to anyone who wants to build a brand. [Read my full review]({{ ref "/blog/book_review_your_music_and_people.md"}})
 - Designing Your Life: How to Build a Well-Lived, Joyful Life - Bill Bunett & Dave Evans
 	- 7 / 10
-	- I like the techniques proposed in this book, but it feels like the authors are trying to sell me on something throughout the book, which was a bit off-putting.[ Read my full review]({{ ref /blog/book_review_designing_your_life}})
+	- I like the techniques proposed in this book, but it feels like the authors are trying to sell me on something throughout the book, which was a bit off-putting.[ Read my full review]({{ ref "/blog/book_review_designing_your_life"}})
 - The Time Paradox - The New Psychology of Time That Will Change Your Life
 	- 8 / 10
-	- This book has a very useful mental model, and it has helped me identify and artculate things that I like and dislike about myself and other people. [Read my full review]({{ ref /blog/book_review_the_time_paradox }})
+	- This book has a very useful mental model, and it has helped me identify and artculate things that I like and dislike about myself and other people. [Read my full review]({{ ref "/blog/book_review_the_time_paradox" }})
