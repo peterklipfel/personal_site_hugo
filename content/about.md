@@ -4,12 +4,13 @@ date: 2019-11-22T19:11:09-07:00
 draft: false
 ---
 
-My name is Peter Klipfel, and I have many interests. I currently love my work at [Geodesic](geodesic.tech) where I am building out the future of virtual experiences.
+My name is Peter Klipfel, and I have many interests. I currently love my work at [Mantium](https://mantiumai.com) where I am helping people use cutting edge AI safely and effectively.
 
 When I'm not at work, I enjoy:
 
 * Microbiology and biotechnology
-* Unreal Engine
+* Making music (piano and Ableton)
+* A select few video games
 * Climbing
 * Riding my motorcycle - specifically adventure riding
 * Anything involving snow
