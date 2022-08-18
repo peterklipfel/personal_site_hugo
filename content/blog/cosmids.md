@@ -253,3 +253,9 @@ Based on the number of colonies obtained in the small-scale titering test, scale
 - Add DMSO to a final concentration of 7%, aliquot 1 ml in labeled vials, and then save at - 75 oC  
 • Congratulate yourself for successfully constructing a fantastic cosmid library
 
+
+# Sources
+
+https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/cosmid
+https://static.igem.org/mediawiki/2017/a/af/Dalcosmid.pdf
+https://biology.stackexchange.com/questions/34535/where-does-the-term-cos-site-come-from
