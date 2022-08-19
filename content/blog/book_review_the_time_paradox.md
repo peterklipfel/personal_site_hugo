@@ -3,7 +3,7 @@ title: "The Time Paradox"
 date: 2020-12-20T16:57:46-04:00
 draft: false
 tags: ["books"]
-description: "8/10 - This book has a very useful mental model, and it has helped me identify and artculate things that I like and dislike about myself and other people."
+description: "8/10 - This book has a very useful mental model, and it has helped me identify and artculate things that I like and dislike about myself and others."
 ---
 
 # Recommendation
