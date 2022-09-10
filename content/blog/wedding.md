@@ -1,8 +1,8 @@
 ---
 title: "I had a wedding!"
-date: 2022-07-20:50:59-07:00
+date: 2022-07-20:11:59-07:00
 draft: false
-tags: ["music"]
+tags: ["personal"]
 description: "After delays, reschedulings, and other disruptions during COVID, we finally had our wedding. Thank you to everyone who made the long trip to Thailand to have a spectacular 2 weeks with us."
 ---
 
