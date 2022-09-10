@@ -1,5 +1,5 @@
 ---
-title: "Gene_libraries"
+title: "Gene libraries"
 date: 2022-05-22T22:22:22-07:00
 draft: false
 tags: ["biology"]
