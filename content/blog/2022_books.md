@@ -1,0 +1,95 @@
+---
+title: "My 2022 Book List"
+date: 2023-01-01T21:42:47-07:00
+draft: false
+tags: ["books"]
+description: "I consumed 30ish books and lecture series in 2022. Here is the list and what I thought of each book."
+---
+
+Here is a list of all the books I read in 2022, and a short summary of what I thought.
+
+- Klara and the Sun - Kazuo Ishiguro
+	- 6/10
+	- This book was fine. It articulates an interesting vision for where AI and robotics could lead us, but isn't particularly creative or thought provoking in its predictions. As a story of growth and learning, it is also... fine. Worth a read, but not the top of the pile.
+- A Gentleman in Moscow - Amor Towles
+	- 9/10
+	- An absolutely lovely piece of writing that depcts the changing of an empire. It is refreshing, when constantly bombarded by the tales of underdogs in American media, to read about someone who was not an underdog. Rather he "had it all" but was still a human being who had to endure the upending of his way of life.
+- Man's Search for Meaning - Viktor Frankl
+	- 9/10
+	- This is a great book, and strikes a fundamental chord for me. A grandmother figure close to me became severely depressed when moving to an elderly home, and, despite being in very good health for her age, died within weeks to a percieved lack of meaning in life. We all struggle with meaning, and this book articulates well the fundamental questions that this wondering leads us to. I give it a 9 and not a 10 because these ideas have proliferated far from the source, and you may not need to read this book to have heard or understand all of its ideas.
+- A Man Called Ove - Fredrik Backman
+	- 7/10
+	- This book was tough to get into - it starts out very depressing - but turned into a heartwarming read. I would recommend this book when vacationing somewhere cloudy.
+- Spell or High Water - Scott Meyer
+	- 7/10
+	- The Magic 2.0 series is beautiful for what it is - easy reading, slap-stick comedy. I found myself giggling at the gym while listening to this book. If you've just finished reading something heavy, I'd highly recommend this series
+- An Unwelcome Quest - Scott Meyer
+	- 7/10
+	- The Magic 2.0 series is beautiful for what it is - easy reading, slap-stick comedy. I found myself giggling at the gym while listening to this book. If you've just finished reading something heavy, I'd highly recommend this series
+- The Wisdom of Insecurity - Alan Watts
+	- 8/10
+	- It's difficult to rate Alan Watts. After you listen to enough of his content, it basically all sounds the same. If you've already listened to another Alan Watts lecture series, you don't need to listen to this one. If you have not listened to Alan Watts, I would highly recommend doing so
+- A Thousand Brains - Jeff Hawkins & Richard Dawkins
+	- 9/10
+	- I've worked in AI for a number of years now, and the hype has reached a crescendo recently. If you are interested in or excited about AI, but do not have a technical background in it, I would highly recommend this book. It asks the interesting philosophical questions about how intelligence works, and will help people think reasonably about AI.
+- Measure What Matters - John Doerr & Larry Page
+	- 5/10
+	- This is a great book, and an important read for anyone who is early on in their learning about business management. But the ideas espoused in this book have now been so thoroughly mutilated by corporations who pay lip service to them that I don't really see it as a particularly good read anymore.
+- Project Hail Mary - Andy Weir
+	- 4/10
+	- I'll say it. I didn't like this book. For all the plaudits that it has received from others, it just didn't do it for me. The main character was annoying and childish with fairly flat character development. I'm not sure if it was intended to be written as a children's book, but that's how it felt to me.
+- The Dark Forest - Cixin Liu, Joel Martinsen
+	- 9/10
+	- An outstanding book. I did not care for the first book in the series, but was convinced to try the second book by a friend. I am very glad that I was convinced. The Dark Forest theory of intelligence in the universe is a very fun idea, and I'm glad that there was an entire book exploring its ramifications.
+- Death's End - Cixin Liu, Ken Liu
+	- 9/10
+	- A massive number of scifi books wave their hands and say "and then we discovered FTL... Moving on". Death's End did the opposite of this. The creativity played with known physics built an elaborate, yet consistent universe of intelligence. Whereas the sociological ideas happened in the prior book _The Dark Forest_, this book addressed the interesting possibilities in advanced technologies.
+- Theory of Everything - Ken Wilber
+	- 3/10
+	- I really struggled with this book. Don't read it. There are some interesting sociological ideas, but they are written through an obfuscating lens.
+- Four Thousand Weeks - Oliver Burkeman
+	- 9/10
+	- Finally! Someone who can properly articulate why corporate culture is such a drain on our humanity. The summary of this book is that you should stop trying to hold yourself to some kind of output quota, whether that's in number of hours worked, number of dollars spent on vacation, or number of macronutrients that you've logged. Efficiency has diminishing returns, and it's better to spend time on things that matter to _you_ - trite advice that is better explained in the book.
+- Animal Farm - George Orwell
+	- 7/10
+	- While historically important, I don't think it has the same punch as it did when it was written. Reading it as a modern novel, it's a good story with obvious symbolism and messages. Because it's so fundamental to modern political discourse, this is an important read.
+- 1984 - George Orwell
+	- 7/10
+	- I want to rate this book more highly, but it's not really my style. Similarly to _Animal Farm_, this is a very important book, and I'm glad I was made to read it in high school. But I find it pretty depressing and not very fun to read.
+- Positive Intelligence - Shirzad Chamine
+	- 9/10
+	- I greatly enjoyed this book. It has a solid framework for categorizing our own shortcomings. As all frameworks are, it is imperfect, but I have found it to be broadly useful across personal and business relationships as well as in personal reflection and growth. I think this read along side _Man's Search for Meaning_ could allow people to build a pretty solid life philosophy.
+- The Wizard of Oz and Other Narcissists - Eleanor Payson
+	- 5/10
+	- The ideas in this book make sense when cast in the light of a book like "Positive Intelligence", but I found the writing to be obtuse and difficult to follow. For example, talking about how "some narcissism" is healthy, but "too much narcissism" results in Narcissistic Personality Disorder is a rather unhelpful revalation.
+- The Story of Human Language - John McWhorter
+	- 9/10
+	- In general, I love the Great Courses, and this course did not disappoint. Dr. McWhorter is a passionate, humorous, and entertaining lecturer. If you enjoy books like _Debt: The first 5000 years_, _The Silk Roads_, or _Guns, Germs, and Steel_, you'll get a lot out of this series.
+- Slicing Pie - Mike Moyer
+	- 8/10
+	- Anyone starting a business should read this book. It provides a reasonable framework for farily compensating people who are taking the risk with you.
+- Decoding Dogs: Inside the Canine Mind - Ellen Fuirlong
+	- 6/10
+	- This wasn't a particularly insightful course from The Great Courses, but it helped me reason a bit better about how to interact with my new puppy.
+- Delivering Happiness - Tony Hsieh
+	- 7/10
+	- I found this book to be a great articulation of everything that startups and high growth businesses _could_ be. I fear that some may read this as a recipe for how to build a company, but I think it's more about showing people that it is _possible_ to build a company with compassion. Of course, this is a bit overshadowed by some of Hsieh's widely reported flaws.
+- The stormlight archives - Brandon Sanderson
+	- The Way of Kings - Brandon Sanderson
+	- Words of Radiance - Brandon Sanderson
+	- Rhythm of War - Brandon Sanderson
+	- Oathbringer - Brandon Sanderson
+	- 10/10
+	- I'm going to group all of these together because I read them voraciously across a few weeks. This series is masterful. The world building is immense but consistent. The storytelling is top notch. It starts out very zoomed in on a single individual, tracking his life through the world, and over the course of the books continues to zoom ever outward to a wider canvas of beautiful story telling.
+- The Book of Joy - The Dalai Lama & Desmond Tutu
+	- 10/10
+	- I have read this book in the past, and found that rereading it was a positive experience. I expect to continue rereading it regularly.
+- Disunited Nations - Peter Zeihan
+	- 8/10
+	- I can't wait to see how the predictions made in this book weather the test of time. While reading this book, I found myself often asking "but is that premise true?" Unfortunately, I didn't have the energy to fact check all of these questions, but a few checked out. There are lots of sweeping claims made in the book, but they are presented alongside interesting views of the world. For example, the explanation of American political parties of "weak but durable" is something that I have found to be useful in many conversations.
+- Anxious People - Frederik Backman
+	- 7/10
+	- Similar to _A Man Called Ove_. This book does a good job of articulating kindness. If you find that there is a lack of kindness in your life, perhaps consider one of Backman's books.
+- Remarkably Bright Creatures - Shelby Van Pelt
+	- 6/10
+	- Heartwarming, easy reading. It's a sweet, predictable story of people finding each other. It has very little to do with octopi, which I was a bit dissappointed about. The octopus theme is because one of the main characters is an octopus (written in the first person).
