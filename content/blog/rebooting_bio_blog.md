@@ -1,9 +1,11 @@
 ---
-title: "Rebooting my biology blog"
+title: Rebooting my biology blog
 date: 2022-02-02T20:32:12-07:00
-draft: false
-tags: ["biology", "personal"]
-description: "I took some time off from writing about biology, but I'm going to be getting back into it."
+draft: true
+tags:
+  - biology
+  - personal
+description: I took some time off from writing about biology, but I'm going to be getting back into it.
 ---
 
 # Intro
