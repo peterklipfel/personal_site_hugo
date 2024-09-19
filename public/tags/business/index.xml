@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>business on Peter Klipfel</title>
+    <link>/tags/business/</link>
+    <description>Recent content in business on Peter Klipfel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 28 Sep 2020 18:31:12 -0700</lastBuildDate><atom:link href="/tags/business/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On the utility of generalists</title>
+      <link>/blog/utility_of_generalists/</link>
+      <pubDate>Mon, 28 Sep 2020 18:31:12 -0700</pubDate>
+      
+      <guid>/blog/utility_of_generalists/</guid>
+      <description>Overview tldr; Generalists are useful for injecting energy
+I&amp;rsquo;ve recently moved from a large company (~1000 people) to a small company (&amp;lt;10 people), and it has given me a new perspective on the usefulness of generalists. I have spent most of my career working in small companies, and moving abruptly from the largest company I&amp;rsquo;ve worked for back to a small company has shed some light on the differences for me.</description>
+    </item>
+    
+    <item>
+      <title>On Remote Work</title>
+      <link>/blog/on_remote_work/</link>
+      <pubDate>Sun, 06 Sep 2020 21:40:59 -0700</pubDate>
+      
+      <guid>/blog/on_remote_work/</guid>
+      <description>How Remote work has affected me I&amp;rsquo;m writing this while lying on the living room floor with a pillow under me. This is a practice I developed while working through some chronic pain. I was unable to sit for long periods, and I didn&amp;rsquo;t have a standing desk (and standing doesn&amp;rsquo;t work as well as laying down for me). I find that it provides me with a nice, low intensity shoulder workout, stretches some of the muscles that form when I&amp;rsquo;m hunched over a computer while sitting, and let&amp;rsquo;s me flop over when I want to think.</description>
+    </item>
+    
+  </channel>
+</rss>

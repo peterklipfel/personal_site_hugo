@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>music on Peter Klipfel</title>
+    <link>/tags/music/</link>
+    <description>Recent content in music on Peter Klipfel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 18 Jun 2022 21:50:59 -0700</lastBuildDate><atom:link href="/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Music theory simplified</title>
+      <link>/blog/music_theory_made_easy/</link>
+      <pubDate>Sat, 18 Jun 2022 21:50:59 -0700</pubDate>
+      
+      <guid>/blog/music_theory_made_easy/</guid>
+      <description>Layering Abstractions There is a standard progression to teaching people music. It looks like this:
+ Notes Scales Chords Modes  Chords get moved around in that order depending on the instrument and style of music you&amp;rsquo;re playing.
+But here&amp;rsquo;s the thing&amp;hellip; They&amp;rsquo;re all actually just different sets of the same stuff. The difference is much smaller than I initially imagined.
+Let&amp;rsquo;s start with a simple triad.
+The first time you learn chords, you&amp;rsquo;re taught about major triads.</description>
+    </item>
+    
+  </channel>
+</rss>
