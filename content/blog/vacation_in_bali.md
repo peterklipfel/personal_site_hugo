@@ -1,7 +1,7 @@
 ---
 title: I went to Bali!
 date: 2023-06-10T12:20:33-07:00
-draft: true
+draft: false
 ---
 
 This year, we went to Bali for a family wedding. We spent 2 weeks there together, and I spent a third week by myself in Ubud. The first week was just my wife and I, and we were at a very nice resort on the beach. We spent the week with a mixture of drinking cocktails on the beach and exploring the island on a rented scooter.
