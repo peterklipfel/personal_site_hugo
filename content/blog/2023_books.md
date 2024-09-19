@@ -1,0 +1,107 @@
+---
+title: My 2023 Book List
+date: 2024-01-01T21:42:47-07:00
+draft: false
+tags:
+  - books
+description: I consumed 30ish books and lecture series in 2023. Here is the list and what I thought of each book.
+---
+
+Here is a list of all the books I read in 2023, and a short summary of what I thought.
+
+- The Comfort Crisis - Michael Easter
+	- 7/10
+	- I read this as a precursor to some surgery that I was concerned about. It isn't specifically about surgery, but it helped put me in the right mindset to prepare for discomfort and pain from the surgery.
+- How the World Really Works - Vaclav Smil
+	- 5/10
+	- Kind of interesting, but the author felt self-important and pushy for much of the book. I do think that if you're a politically left-leaning person, it's a good way to try to put yourself in a more conservative mindset.
+- Sapiens - Yuval Noah Harari
+	- 9/10
+	- Thought provoking, far reaching, and worth a read. There are lots of books that try to tell the story of humanity from the very beginning, and reading this one would preclude reading most of the others.
+- The Book of Joy - Dalai Lama and Desmond Tutu
+	- 10/10
+	- I read this book semi-regularly. This time, I read it to put me in the right mindset for some surgery that included a few weeks of rather painful recovery.
+- Shogun - James Clavell
+	- 7/10
+	- I listened to this during my surgery recovery. I am grateful for the distraction and comfort it provided me, though I'm not positive that I followed all of the book. There are a ton of characters, but ultimately, it was nice to transport myself to a place and time that I have very little familiarity with.
+- The Learning Brain - Thad A. Polk
+	- 6/10
+	- A good overview of interesting brain-related phenomena. As always, The Great Courses delivers a good series. This was more practical than I was hoping for.
+- Rebooting AI - Gary Marcus and Ernest Davis
+	- 10/10
+	- Finally! Someone has cut through the AI hype. There is so much nonsense about consciousness, intelligence, etc. It is nice to read someone presenting an expert opinion that is readable, and not laced with VC money.
+- Wild Mind - Bill Plotkin
+	- 6/10
+	- This is right at the edge of woo-woo and helpful. It has some interesting mental models that were helpful for me, but I would not recommend it to everyone.
+- The Golden Enclaves - Naomi Novik
+	- A Deadly Education
+	- The Last Graduate
+	- The Golden Enclaves
+	- 7/10
+	- This series isn't really written for me, but I appreciated it. It's basically Harry Potter with a coherent magic system and thoughtful world-building.
+- Introduction to the Qur'an - Martyn Oliver
+	- 7/10
+	- I love the lectures from the Great Courses, and this one was short and easy to listen to. Not as packed with information as I would have liked, but useful. I listened to this to understand a bit more about the Muslim/Hindu tension in Bali and Indonesia.
+- Great World Religions: Hinduism - Mark W. Muesse
+	- 8/10
+	- I listened to this lecture series while in Bali, because I wanted to have greater context for the religious symbols that I was seeing everywhere. It provided a good overview, and while not specific to Balinesian Hinduism, was nontheless helpful.
+- The Cosmere Collection - Brandon Sanderson
+	- Warbreaker
+	- The Final Empire
+	- The Well of Ascension
+	- The Hero of Ages
+	- The Alloy of Law
+	- Edgedancer
+	- 8/10
+	- I've softened my opinion on Sanderson a bit. I'm fully bought in to the Cosmere series, but the more I read, the more I feel his political and cultural conservatism in his work. The Cosmere Series fills the place in my life that I never let Marvel fill. It's light, fun reading. Like going to see a Marvel movie.
+- Chip War - Chris Miller
+	- 9/10
+	- Eye opening about the true power of the chip supply chain. Before reading this book, I was not aware that the entire silicon-chip manufacturing industry is bottlenecked by one company in the Netherlands (ASML). I learned so much from this book, and would highly recommend it to everyone interested in geopolitics and tech.
+- Your Brain's Not Broken - Tamara Rosier
+	- 3/10
+	- I felt like this book meant well, but did not deliver. The author repeats herself too much, and came off to me sounding like: "your brain isn't broken, it just doesn't function correctly".
+- Restoration Agriculture - Mark Shepard
+	- 10/10
+	- The ideas in this book are infectious to me. It made me think of the world as a possible "garden of eden" rather than a satisfactory-esque production line. What if public parks grew edible plants? How could we design large scale agroforestry projects? The research here is still quite early, but well worth putting energy into.
+- Competing Against Luck - Clayton M. Christensen
+	- 5/10
+	- Meh. If you've worked in a corporate setting for more than 2 years, it is likely you have encountered most of the ideas in this book. Worth a read if you're at the very beginning of your career, but otherwise, you can probably spend your time better reading other books or skimming blog posts.
+- Seeing Like a State - James C. Scott
+	- 9/10
+	- This book describes the processes by which large groups of humans have been brought under the control of smaller groups of humans. It is an excellent read for anyone who is interested in the emergent outcomes of human cooperation. A highly recommended read.
+- Age of Anger - Pankaj Mishra
+	- 7/10
+	- A thought provoking read about the rise of right wing extremism. It provides for a compelling lens through which to appreciate global changes in the last few hundred years. I thought the theory tried to hold a bit more than it was capable of, but it was thought-provoking nonetheless.
+- Come As You Are - Emily Nagoski
+	- 10/10
+	- A great book about sexuality. The author is thoughtful and direct in her writing; taboos are stated and addressed; 
+- Determined - Robert M. Sapolsky
+	- 7/10
+	- I wholeheartedly agree with the premise of this book, and would recommend it as reading to anyone who has had the bar room debate about whether we have free will. However, I felt like it was a bit long winded - the summary of the book is that the author believes that we do not have free will. Either things are random or they are deterministic, but neither of those options leaves room for free will. The book provides supporting arguments for that thesis.
+- The Mars Trilogy - Kim Stanley Robinson
+	- Red Mars
+	- Green Mars
+	- Blue Mars
+	- 9/10
+	- This was an excellent series. I loved it most for the thought experiment that it provoked: what would happen if a diverse group of 100 of the most highly educated people on planet Earth tried to develop a society from scratch on Mars. I appreciated that there was not FTL travel, teleportation, or any outrageously unrealistic science added to the book. It made the series feel more raw and exciting.
+- The Dance of Anger
+	- 8/10
+	- This book was recommended to me by my wife, who felt represented well by this book. Reading it together improved our communication, and I'd recommend it to others.
+- Life 3.0 - Max Tegmark
+	- 3/10
+	- This is a scifi book masquerading as an AI thinkpiece. Creative writers would have written this book as a fictional story that drew from plausible modern-day technological progress. But this self-important MIT researcher instead, rather uncreatively, compiled a list of AI bar room conversations as a serious discussion of "ethics" and "alignment" - in quotes because the book barely scratches the surface of either. AI hype is strong enough; don't bother reading this book.
+- Cloud Cuckoo Land
+	- 5/10
+	- A story about stories. It wasn't a particularly compelling book, and felt like an author just trying to be more literary than thou.
+- Becoming Wise - Krista Tippett
+	- 5/10
+	- Not bad, but not great. I'm convinced that there are fewer than 10 self help books, and people just present them differently. This is certainly one of the 10.
+- Democracy - Condoleeza Rice
+	- 8/10
+	- A good read. It is a level-headed take on a complex topic. Please read it.
+- The Outlaw Ocean
+	- 9/10
+	- A fascinating dive into the unregulated world of the open ocean. Incredible investigative writing.
+- Balinese Gamelan Music - Michael Tenzer
+	- 10/10
+	- Anyone interested in world music should read this book. I read this as a supplement to gamelan lessons that I took in Bali, and this book was indispensable. I had always been told that the way I was taught music was entirely different from some cultural traditions (like Balinese traditions), but it is hard to wrap one's mind around _how_ different things are without the help of a book, and a local teacher. This is a great place to start if you want to learn about the music of Bali.
