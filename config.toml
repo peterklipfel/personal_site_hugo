@@ -9,7 +9,12 @@ hasCJKLanguage = false
 [params]
 	author = "Peter Klipfel"
 	description = "My minimalistic portal to the world"
-	bio = "biotech<br>music<br>software<br>musings"
+	bio = """
+	biotech
+	music
+	software
+	musings
+	"""
 
 	enableRSS = true
 	enableToc = true
