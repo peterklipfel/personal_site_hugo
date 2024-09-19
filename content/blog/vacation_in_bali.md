@@ -11,7 +11,7 @@ For those who ride motorcycles, riding in Bali (and SE Asia generally) is great.
 
 We did some touristy things, and spent a day or two exploring the rice paddies:
 
-{{< figure src="/rice.heic" alt="rice paddies" title="Rice paddies" >}}
+{{< figure src="/rice.png" alt="rice paddies" title="Rice paddies" >}}
 
 I was really excited to learn gamelan while I was there. I have always wanted to know more about gamelan, but had never really had the opportunity to learn.
 
@@ -19,11 +19,11 @@ I ended up taking 2 lessons from locals - one with various mental gamelan, and t
 
 Here's what the wooden gamelan that I practiced on looked like:
 
-{{< figure src="/wooden_gamelan_practice.heic" alt="Learning gamelan in someone's house" title="Wooden gamelan lessons" >}}
+{{< figure src="/wooden_gamelan_practice.png" alt="Learning gamelan in someone's house" title="Wooden gamelan lessons" >}}
 
 And here's what a full metal gamelan group looks like. I did not practice on these, but on a similar set.
 
-{{< figure src="/wedding_venue.jpg" alt="Wedding Venue" title="Wedding venue" >}}
+{{< figure src="/gamelan_set.png" alt="Wedding Venue" title="Wedding venue" >}}
 
 Some fun facts about gamelan orchestra:
 
