@@ -57,6 +57,7 @@ hasCJKLanguage = false
 # Add additional social link entries underneath
 [social]
 	github-square = "https://www.github.com/peterklipfel"
+	linkedin-square = "https://linkedin.com/in/peterklipfel"
 
 [taxonomies]
   category = "categories"
