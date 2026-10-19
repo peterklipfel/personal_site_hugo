@@ -1,0 +1,34 @@
+{{ define "main" }}
+<article class="post">
+  <header class="post-head">
+    <h1>{{ .Title }}</h1>
+    {{- if in site.MainSections .Section }}
+    <p class="post-meta">
+      <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+      · {{ .WordCount }} words · {{ .ReadingTime }} minute read
+      {{- if and (gt .Lastmod .Date) (ne (.Lastmod.Format "2006-01-02") (.Date.Format "2006-01-02")) }} · updated {{ .Lastmod.Format "Jan 2, 2006" }}{{ end }}
+    </p>
+    {{- end }}
+  </header>
+  <div class="prose">
+    {{ .Content }}
+  </div>
+  {{- with .GetTerms "tags" }}
+  <ul class="tags" aria-label="Tags">
+    {{- range . }}<li><a class="ink" href="{{ .RelPermalink }}">#{{ lower .LinkTitle }}</a></li>{{ end }}
+  </ul>
+  {{- end }}
+  {{- if in site.MainSections .Section }}
+  {{- if or .PrevInSection .NextInSection }}
+  <nav class="post-nav" aria-label="More posts">
+    {{- with .NextInSection }}
+    <a class="post-link-nav" href="{{ .RelPermalink }}"><small>← {{ .Date.Format "Jan 2, 2006" }}</small><span class="ink">{{ .Title }}</span></a>
+    {{- end }}
+    {{- with .PrevInSection }}
+    <a class="post-link-nav next" href="{{ .RelPermalink }}"><small>{{ .Date.Format "Jan 2, 2006" }} →</small><span class="ink">{{ .Title }}</span></a>
+    {{- end }}
+  </nav>
+  {{- end }}
+  {{- end }}
+</article>
+{{ end }}

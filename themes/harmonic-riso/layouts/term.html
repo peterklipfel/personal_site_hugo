@@ -1,0 +1,7 @@
+{{ define "main" }}
+  <header class="list-head">
+    <h1>#{{ lower .Title }}</h1>
+    <p><a class="ink" href="{{ .Parent.RelPermalink }}">All {{ .Parent.Title | lower }}</a></p>
+  </header>
+  {{- partial "grouped-posts.html" (dict "page" . "pages" .Pages) }}
+{{ end }}

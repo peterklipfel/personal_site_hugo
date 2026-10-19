@@ -1,0 +1,7 @@
+{{ define "main" }}
+  <header class="list-head">
+    <h1>{{ .Title }}</h1>
+    {{- with .Content }}<div class="prose">{{ . }}</div>{{ end }}
+  </header>
+  {{- partial "grouped-posts.html" (dict "page" . "pages" .RegularPagesRecursive) }}
+{{ end }}

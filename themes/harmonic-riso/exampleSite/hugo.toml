@@ -1,0 +1,60 @@
+baseURL = "https://peterklipfel.com/"
+title = "Peter Klipfel"
+locale = "en-us"
+theme = "harmonic-riso"
+copyright = "© Peter Klipfel"
+
+[pagination]
+  pagerSize = 10
+
+[taxonomies]
+  tag = "tags"
+
+[params]
+  description = "My minimalistic portal to the world"
+  author = "Peter Klipfel"
+  subtitle = "biotech · music · software · musings"
+  mainSections = ["blog"]
+
+  [[params.social]]
+    name = "GitHub"
+    url = "https://www.github.com/peterklipfel"
+  [[params.social]]
+    name = "LinkedIn"
+    url = "https://linkedin.com/in/peterklipfel"
+
+  # The hero wordmark. Visitors can change these in "Print settings";
+  # their choices are saved in their browser. These are the defaults.
+  [params.harmonic]
+    heroText = "Peter Klipfel"
+    inks = "Coral"              # Coral, Classic, Sunset or Forest
+    misregistration = 25        # percent, 0-100
+    bottomHarmonics = 59        # 1-256, the bottom ink (Aqua in Coral)
+    middleHarmonics = 30        # 1-256, the middle ink (Bright red)
+    topHarmonics = 13           # 1-256, the top ink (Teal)
+    order = "frequency"         # "frequency" or "circle" (largest circle first)
+    motion = true
+    motionAmount = 40           # percent, 0-100
+    oscillateUpper = 81         # percent of each ink's harmonics that oscillate, 10-100
+    buildUp = true              # animate the wordmark in on page load
+    controls = true             # show the "Print settings" panel on the home page
+
+[menus]
+  [[menus.main]]
+    name = "Tags"
+    pageRef = "/tags"
+    weight = 10
+  [[menus.main]]
+    name = "About"
+    pageRef = "/about"
+    weight = 20
+  [[menus.main]]
+    name = "Subscribe"
+    url = "/index.xml"
+    weight = 30
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+  [markup.goldmark.renderer]
+    unsafe = false

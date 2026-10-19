@@ -1,0 +1,14 @@
+<ol class="posts">
+  {{- range . }}
+  <li>
+    <a class="post-link" href="{{ .RelPermalink }}">
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2" }}</time>
+      <span>
+        <span class="t">{{ .Title }}</span>
+        {{- $s := .Description | default (.Summary | plainify | strings.TrimSpace) }}
+        {{- with $s }}<span class="s">{{ . | truncate 180 }}</span>{{ end }}
+      </span>
+    </a>
+  </li>
+  {{- end }}
+</ol>

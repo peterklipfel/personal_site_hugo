@@ -1,0 +1,6 @@
+{{- if or .HasPrev .HasNext }}
+<nav class="pager" aria-label="More posts">
+  {{- with .Prev }}<a class="ink" href="{{ .URL }}">← Newer posts</a>{{ else }}<span></span>{{ end }}
+  {{- with .Next }}<a class="ink" href="{{ .URL }}">Older posts →</a>{{ end }}
+</nav>
+{{- end }}

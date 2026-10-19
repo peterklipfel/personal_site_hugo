@@ -1,0 +1,15 @@
+{{- $h := site.Params.harmonic | default dict }}
+{{- $text := $h.herotext | default site.Title }}
+<section class="hero">
+  <h1 class="hero-title">{{ $text }}</h1>
+  <canvas id="riso-hero" data-text="{{ $text }}" aria-hidden="true"></canvas>
+</section>
+{{- with site.Params.subtitle }}
+<p class="subtitle">{{ . }}</p>
+{{- end }}
+{{- if ne $h.controls false }}
+<details class="settings" id="riso-settings">
+  <summary>Print settings</summary>
+  <div class="controls"></div>
+</details>
+{{- end }}

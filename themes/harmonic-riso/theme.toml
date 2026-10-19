@@ -1,0 +1,12 @@
+name = "Harmonic Riso"
+license = "MIT"
+licenselink = "https://opensource.org/licenses/MIT"
+description = "A blog theme whose wordmark is drawn from Fourier harmonics and printed as overlapping risograph inks."
+homepage = "https://peterklipfel.com/"
+tags = ["blog", "minimal", "personal", "canvas", "animation", "dark mode"]
+features = ["animated Fourier wordmark", "risograph ink overprint", "visitor print settings", "dark mode", "RSS", "tags"]
+min_version = "0.146.0"
+
+[author]
+  name = "Peter Klipfel"
+  homepage = "https://peterklipfel.com/"

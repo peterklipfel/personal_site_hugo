@@ -1,0 +1,13 @@
+<footer class="foot wrap">
+  {{- with site.Params.social }}
+  <ul>
+    {{- range . }}
+    <li><a class="ink" href="{{ .url }}" rel="me noopener">{{ .name }}</a></li>
+    {{- end }}
+    {{- with site.Home.OutputFormats.Get "rss" }}
+    <li><a class="ink" href="{{ .RelPermalink }}">RSS</a></li>
+    {{- end }}
+  </ul>
+  {{- end }}
+  <small>{{ with site.Copyright }}{{ . | markdownify }}{{ else }}© {{ now.Year }} {{ site.Params.author | default site.Title }}{{ end }}</small>
+</footer>

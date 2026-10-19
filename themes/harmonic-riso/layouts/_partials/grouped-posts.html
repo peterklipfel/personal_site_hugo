@@ -1,0 +1,7 @@
+{{- /* Paginated list grouped by year. Pass a page collection. */ -}}
+{{- $pag := .page.Paginate (.pages.GroupByDate "2006") }}
+{{- range $pag.PageGroups }}
+<h2 class="year">{{ .Key }}</h2>
+{{- partial "post-list.html" .Pages }}
+{{- end }}
+{{- partial "pager.html" $pag }}

@@ -1,0 +1,17 @@
+{{- $page := . }}
+<div class="site-bar">
+  <header class="site wrap">
+    {{- if .IsHome }}
+    <span class="brand-spacer"></span>
+    {{- else }}
+    <a class="brand" href="{{ "/" | relURL }}" data-riso-brand><span class="brand-text">{{ site.Title }}</span></a>
+    {{- end }}
+    {{- with site.Menus.main }}
+    <nav class="nav" aria-label="Main">
+      {{- range . }}
+      <a href="{{ .URL }}" data-riso-nav{{ if or ($page.IsMenuCurrent "main" .) ($page.HasMenuCurrent "main" .) }} aria-current="page"{{ end }}><span class="nav-text">{{ .Name }}</span></a>
+      {{- end }}
+    </nav>
+    {{- end }}
+  </header>
+</div>
