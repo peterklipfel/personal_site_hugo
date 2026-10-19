@@ -13,7 +13,7 @@ copyright = "© Peter Klipfel"
 [params]
   description = "My minimalistic portal to the world"
   author = "Peter Klipfel"
-  subtitle = "biotech · music · software · musings"
+  subtitle = "my musings"
   mainSections = ["blog"]
 
   [[params.social]]

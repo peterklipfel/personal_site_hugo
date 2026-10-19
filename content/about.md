@@ -4,18 +4,18 @@ date: 2019-11-22T19:11:09-07:00
 draft: false
 ---
 
-My name is Peter Klipfel, and I have many interests. I currently love my work at [Mantium](https://mantiumai.com) where I am helping people use cutting edge AI safely and effectively.
+My name is Peter Klipfel, and I have many interests. I currently love my work at [AE Studio](https://ae.studio) where I am helping people use AI safely and effectively.
 
 When I'm not at work, I enjoy:
 
-* Microbiology and biotechnology
-* Making music (piano and Ableton)
-* A select few video games
+* Making music
+* Riding my motorcycles
+* Video games
 * Climbing
-* Riding my motorcycle - specifically adventure riding
-* Anything involving snow
+* Microbiology and biotechnology
+* General outdoors things (camping, hiking, snowsports, etc.)
 
-If any of these things interest you, please feel free to reach out
+Please feel free to reach out!
 
 Here's some JS that will spit out my email.
 
